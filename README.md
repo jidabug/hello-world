@@ -1,5 +1,12 @@
 # hello-world
-This is the GitHub tutorial
+This is the GitHub tutorial and Markdown practice
 
-I am Jidabug. I have climbed the highest mountains and swam the deepest rivers.
-One of those statements is true.
+## heading 2
+### heading 3
+
+* bullet 1
+* bullet 2
+
+**bold**
+
+_italic_
